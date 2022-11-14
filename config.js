@@ -60,14 +60,14 @@ global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62895332001029' //Nomor Bot
-global.nomorown = '6282388332165' //Nomor Owner
-global.namebot = 'Tsukasa-MD' //Nama Bot
-global.nameown = 'Irgi Setiaone' // Nama Owner
+global.nomorown = '' //Nomor Owner
+global.namebot = 'Killua-MD' //Nama Bot
+global.nameown = '' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282388332165', 'Irgi Setiaone ', true] //Ganti jd nomormu sama Namamu
+  ['6282139687135', 'DaffaGanzz ', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -99,8 +99,8 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = 'Tsukasa-MD' //Main Watermark
-global.wm2 = 'Tsukasa Bot WhatsApp '
+global.wm = 'Killua-MD' //Main Watermark
+global.wm2 = 'Killua Bot WhatsApp '
 global.wm3 = '⫹⫺ Created By L'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
@@ -370,9 +370,9 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = '©Punya Irgi'
-global.stickauth = `Yang bikin Irgi \nMau wa nya? \nWa Bot :0895332001029\nIg Owner:@irgisetiaone_`
-global.packname = 'Tsukasa-MD'
+global.stickpack = 'DaffaGanzz'
+global.stickauth = `:Killua-MD`
+global.packname = 'Killua-MD'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ʙᴏᴛᴢ'
 
 global.multiplier = 38 // The higher, The harder levelup
