@@ -60,7 +60,7 @@ global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62895332001029' //Nomor Bot
-global.nomorown = '' //Nomor Owner
+global.nomorown = '6282139687135' //Nomor Owner
 global.namebot = 'Killua-MD' //Nama Bot
 global.nameown = '' // Nama Owner
 
